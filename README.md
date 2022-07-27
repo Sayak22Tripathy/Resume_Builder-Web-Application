@@ -28,7 +28,8 @@ This page basically consists of new user registration which asks the user for em
 ## User Information for Building Resume:
 This page asks for user’s personal information like name ,contact number ,address ,photo and work and academic qualification and after entering all details ,you can generate your resume.
 
-<img width="456" alt="image" src="https://user-images.githubusercontent.com/64369143/176417951-80e5fd1d-d600-4279-8446-69e99f1f4c8d.png">
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/64369143/181283905-53f2837c-792f-4ad7-811d-4deb4e1aa01e.png">
+
 
 
 
